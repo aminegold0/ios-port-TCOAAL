@@ -1,4 +1,4 @@
-# ⚠️ this not official port buy the official game ⚠️
+# ⚠️this not official port buy the official game⚠️
 # the coffin of andy and Leyley ipa
 there 2 versions one with virtual pad and other tap to move
 
