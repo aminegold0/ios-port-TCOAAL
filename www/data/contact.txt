@@ -1,0 +1,10 @@
+Text that appears outside of the block tags
+will not display in the credits scene
+
+<block:-1,0,10,10,100,center,black>
+
+Contact me if the game isn't working right or feedback 
+
+discord: \c[3]ds_artorias
+Reddit: \c[3] u/aminegold0
+</block>
